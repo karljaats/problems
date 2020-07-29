@@ -1,22 +1,6 @@
 Project List
 ========
 
-## Table of Contents
-
-- [Numbers](https://github.com/karljaats/problems#numbers)
-- [Classic Algorithms](https://github.com/karljaats/problems#classic-algorithms)
-- [Graph](https://github.com/karljaats/problems#graph)
-- [Data Structures](https://github.com/karljaats/problems#data-structures)
-- [Text](https://github.com/karljaats/problems#text)
-- [Networking](https://github.com/karljaats/problems#networking)
-- [Classes](https://github.com/karljaats/problems#classes)
-- [Threading](https://github.com/karljaats/problems#threading)
-- [Web](https://github.com/karljaats/problems#web)
-- [Files](https://github.com/karljaats/problems#files)
-- [Databases](https://github.com/karljaats/problems#databases)
-- [Graphics and Multimedia](https://github.com/karljaats/problems#graphics-and-multimedia)
-- [Security](https://github.com/karljaats/problems#security)
-
 Numbers
 ---------
 
@@ -99,8 +83,6 @@ Data Structures
 
 Text
 ---------
-
-**Fizz Buzz** - Write a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”.
 
 **Reverse a String** - Enter a string and the program will reverse it and print it out.
 
